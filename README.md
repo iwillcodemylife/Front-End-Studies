@@ -1,1 +1,1 @@
-# Front-End-mokslai
+# Front-End-Development CodeAcademy
